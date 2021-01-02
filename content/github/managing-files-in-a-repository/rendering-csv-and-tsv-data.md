@@ -1,4 +1,4 @@
----
+#%---
 title: Rendering CSV and TSV data
 redirect_from:
   - /articles/rendering-csv-and-tsv-data
